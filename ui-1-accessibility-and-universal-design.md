@@ -12,7 +12,7 @@ Understanding how to design for all people is essential for any designer. Everyo
 
 ## Background research
 
-* [Jeffrey Zeldman: 20 Years of Web Design Community](https://vimeo.com/104641191) by Lynda.com
+* [Jeffrey Zeldman: 20 Years of Web Design Community](https://vimeo.com/219302853) by Lynda.com
 
 * [Understanding Progressive Enhancement](http://alistapart.com/article/understandingprogressiveenhancement) by Aaron Gustafson
 
