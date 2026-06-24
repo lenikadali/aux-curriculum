@@ -6,9 +6,9 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 Understanding how to design for all people is essential for any designer. Everyone should be able to access information on the web in an easy and efficient way. It’s not just the right thing to do it is a potential financial liability. MIT and Harvard have recently been sued by the the National Association for the Deaf for failing to meet the requirements of the Americans with Disabilities Act by not including closed captions in the online courses. Companies that don’t take the needs of the disables seriously are facing great financial costs.
 
-‘According to the[ Center for Universal Design (CUD)](http://www.ncsu.edu/ncsu/design/cud/pubs_p/docs/poster.pdf) at North Carolina State University, "is the design of products and environments to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design".’ From [Washington.edu](http://www.washington.edu/doit/universal-design-process-principles-and-applications)
+‘According to the[ Center for Universal Design (CUD)](http://www.ncsu.edu/ncsu/design/cud/pubs_p/docs/poster.pdf) at North Carolina State University, "is the design of products and environments to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design".’ From [Washington.edu](https://doit.uw.edu/brief/universal-design-process-principles-and-applications/)
 
-‘**Accessible design** is a design process in which the needs of people with disabilities are specifically considered. *Accessibility* sometimes refers to the characteristic that products, services, and facilities can be independently used by people with a variety of disabilities. Accessibility as a design concern has a long history, but public awareness about accessibility increased with the passage of legislation such as the[ Americans with Disabilities Act (ADA)](http://www.ada.gov/), which mandated that public facilities and services be fully accessible to people with disabilities.’ From [Washington.edu](http://www.washington.edu/doit/what-difference-between-accessible-usable-and-universal-design)
+‘**Accessible design** is a design process in which the needs of people with disabilities are specifically considered. *Accessibility* sometimes refers to the characteristic that products, services, and facilities can be independently used by people with a variety of disabilities. Accessibility as a design concern has a long history, but public awareness about accessibility increased with the passage of legislation such as the[ Americans with Disabilities Act (ADA)](http://www.ada.gov/), which mandated that public facilities and services be fully accessible to people with disabilities.’ From [Washington.edu](https://doit.uw.edu/knowledge-base/what-is-the-difference-between-accessible-usable-and-universal-design/)
 
 ## Background research
 
@@ -24,7 +24,7 @@ Understanding how to design for all people is essential for any designer. Everyo
 
 * [Accessible Interface Design](https://medium.com/salesforce-ux/accessible-interface-design-d80e95cbb2c1) by Adrian Rapp
 
-* [Universal Design: Process, Principles, and Applications](http://www.washington.edu/doit/universal-design-process-principles-and-applications) by University of Washington
+* [Universal Design: Process, Principles, and Applications](https://doit.uw.edu/brief/universal-design-process-principles-and-applications/) by University of Washington
 
 ## Challenge outline
 
